@@ -146,7 +146,7 @@ The Particle Filter is a Monte Carlo-based method for state estimation in nonlin
 
 MHE is an optimization-based approach that estimates the state trajectory over a finite horizon of past measurements, allowing for constraints and non-Gaussian noise.
 
-## API Reference
+## Reference
 
 For detailed API documentation, see:
 - [LMS API](api/lms.md)
@@ -156,7 +156,3 @@ For detailed API documentation, see:
 - [Unscented Kalman Filter API](api/ukf.md)
 - [Particle Filter API](api/particle.md)
 - [Moving Horizon Estimation API](api/mhe.md)
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
